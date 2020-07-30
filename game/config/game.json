@@ -1,0 +1,17 @@
+{
+  "player":{
+    "name":"Anatoli Ivanovic",
+    "sex": "Female",
+    "age": "25"
+  },
+  "game":{
+    "info":{
+      "name":"Totalitarian State",
+      "version":"0.0.8",
+      "creator":"Connor Greene"
+    },
+    "title":{
+      "text":"TOTALITARIAN STATE"
+    }
+  }
+}
